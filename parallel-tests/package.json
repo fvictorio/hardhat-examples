@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "hardhat test"
+    "test": "hardhat test",
+    "test:parallel": "mocha --require hardhat/register --recursive --parallel --exit"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.0",

@@ -11,7 +11,7 @@ To add parallel tests to your project, you just need to do two things:
 1. Install mocha: `yarn add --dev mocha`
 2. Run `npx mocha --require hardhat/register --recursive --parallel --exit`
 
-You can add this as a npm script in your `package.json` (see the one in this example).
+You can add this as a npm script in your `package.json` (see the `test:parallel` script in this example).
 
 ## Typescript
 
