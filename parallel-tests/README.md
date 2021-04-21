@@ -16,3 +16,7 @@ You can add this as a npm script in your `package.json` (see the `test:parallel`
 ## Typescript
 
 To do this with typescript, just use that same command but add `--extension ts` to the `mocha` command.
+
+## Acknowledgements
+
+This idea was born out of the infinite insistence of [@nventuro](https://github.com/nventuro). So, thanks Nico!
