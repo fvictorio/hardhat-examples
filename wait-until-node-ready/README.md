@@ -2,4 +2,4 @@
 
 This repository shows how you can override the `TASK_NODE_SERVER_READY`
 subtask to trigger some action when the node is ready. Check the code and
-comments in the `hardhat.config.js` file to see how it works.
+comments in the [`hardhat.config.js`](https://github.com/fvictorio/hardhat-examples/blob/master/wait-until-node-ready/hardhat.config.js) file to see how it works.
