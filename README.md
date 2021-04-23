@@ -14,3 +14,7 @@ When you run `hh node`, a JSON-RPC server is started that you can use via http (
 using `--network localhost`). Sometimes you want to wait until the node is ready to
 do something. You can accomplish this with the `TASK_NODE_SERVER_READY` subtask.
 See [the example](/wait-until-node-ready) to learn more.
+
+## Customize generated artifacts
+
+[This example](/customize-artifacts) shows how to customize the artifacts emitted by Hardhat.
