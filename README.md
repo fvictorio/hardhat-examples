@@ -18,3 +18,8 @@ See [the example](/wait-until-node-ready) to learn more.
 ## Customize generated artifacts
 
 [This example](/customize-artifacts) shows how to customize the artifacts emitted by Hardhat.
+
+## Use a custom version of solc
+
+If you want to use a custom solc version (for example, a modified solc or a nightly version), check [this
+example](/custom-solc).
