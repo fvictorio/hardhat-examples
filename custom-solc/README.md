@@ -9,4 +9,4 @@ This subtask returns an object with four properties:
 - `longVersion`: the long version of the compiler (for example, `0.8.5-nightly.2021.5.12+commit.98e2b4e5`). This property is used as extra metadata in the
   build-info files, so you shouldn't worry too much about its value.
 
-See [`hardhat.config.js`](/hardhat.config.js) to see how it's done.
+See [`hardhat.config.js`](./hardhat.config.js) to see how it's done.
