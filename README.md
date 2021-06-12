@@ -23,3 +23,8 @@ See [the example](/wait-until-node-ready) to learn more.
 
 If you want to use a custom solc version (for example, a modified solc or a nightly version), check [this
 example](/custom-solc).
+
+## Reading events
+
+[This example](/reading-events) shows how to use waffle to test the events emitted by a contract.
+It also includes a script for getting the emitted events from a transaction.
