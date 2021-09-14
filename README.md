@@ -28,3 +28,7 @@ example](/custom-solc).
 
 [This example](/reading-events) shows how to use waffle to test the events emitted by a contract.
 It also includes a script for getting the emitted events from a transaction.
+
+## Tasks hooks
+
+[This example](/hooks) shows how to run some code before and/or after a task is executed.
