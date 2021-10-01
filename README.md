@@ -32,3 +32,7 @@ It also includes a script for getting the emitted events from a transaction.
 ## Tasks hooks
 
 [This example](/hooks) shows how to run some code before and/or after a task is executed.
+
+## Read returned value from tx
+
+[This example](/getting-tx-return-value) shows how to get the return value from a mined transaction.
