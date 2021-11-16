@@ -36,3 +36,7 @@ It also includes a script for getting the emitted events from a transaction.
 ## Read returned value from tx
 
 [This example](/getting-tx-return-value) shows how to get the return value from a mined transaction.
+
+## AWS encrypted credentials
+
+[This example](/aws-encrypted-credentials) shows how to have encrypted private keys on an environment file.
