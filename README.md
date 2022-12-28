@@ -40,3 +40,7 @@ It also includes a script for getting the emitted events from a transaction.
 ## Ignore solidity files during compilation
 
 [This example](/ignore-solidity-files) shows how to ignore some of your files during compilation.
+
+## Fail if there are solc warnings
+
+[This example](/fail-on-warnings) shows how to make the `compile` task fail if there are solc warnings.
